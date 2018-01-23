@@ -47,7 +47,7 @@ data_files_spec = [
     ('share/jupyter/nbextensions/jupyter-widget-hello',
         pjoin(nb_path, '*.js*')),
     ('share/jupyter/lab/extensions', lab_path),
-    ('etc/jupyter/nbconfig/notebook.d/' , 'jupyter-widget-hello.json')
+    ('etc/jupyter/nbconfig/notebook.d' , 'jupyter-widget-hello.json')
 ]
 
 
