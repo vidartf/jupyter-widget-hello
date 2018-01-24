@@ -1,8 +1,8 @@
 
 # jupyter-widget-hello
 
-[![Build Status](https://travis-ci.org/vidartf/ipywidgethello.svg?branch=master)](https://travis-ci.org/vidartf/ipywidgethello)
-[![codecov](https://codecov.io/gh/vidartf/ipywidgethello/branch/master/graph/badge.svg)](https://codecov.io/gh/vidartf/ipywidgethello)
+[![Build Status](https://travis-ci.org/vidartf/jupyter-widget-hello.svg?branch=master)](https://travis-ci.org/vidartf/jupyter-widget-hello)
+[![codecov](https://codecov.io/gh/vidartf/jupyter-widget-hello/branch/master/graph/badge.svg)](https://codecov.io/gh/vidartf/jupyter-widget-hello)
 
 
 Hello world for widgets!
