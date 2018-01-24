@@ -12,7 +12,7 @@ from ipywidgets import DOMWidget
 from traitlets import Unicode
 
 module_name = "jupyter-widget-hello"
-module_version = "0.2.1"
+module_version = "1.0.0"
 
 
 class ExampleWidget(DOMWidget):
