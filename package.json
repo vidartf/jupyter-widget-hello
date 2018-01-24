@@ -69,6 +69,21 @@
     "webpack": "^3.4.1"
   },
   "jupyterlab": {
-    "extension": "lib/plugin"
+    "extension": "lib/plugin",
+    "discovery": {
+      "kernel": [
+        {
+          "kernel_spec": {
+            "language": "python\\d?"
+          },
+          "base": {
+            "name": "ipywidgethello"
+          },
+          "managers": [
+            "pip"
+          ]
+        }
+      ]
+    }
   }
 }
