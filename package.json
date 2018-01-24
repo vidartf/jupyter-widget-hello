@@ -1,6 +1,6 @@
 {
   "name": "jupyter-widget-hello",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "Hello world for widgets!",
   "keywords": [
     "jupyter",
@@ -77,7 +77,8 @@
             "language": "python\\d?"
           },
           "base": {
-            "name": "ipywidgethello"
+            "name": "ipywidgethello",
+            "bundles_extension": true
           },
           "managers": [
             "pip"
