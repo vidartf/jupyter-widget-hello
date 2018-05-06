@@ -8,9 +8,9 @@
     "jupyterlab-extension",
     "widgets"
   ],
-  "homepage": "https://github.com/jupyter/jupyter-widget-hello",
+  "homepage": "https://github.com/vidartf/jupyter-widget-hello",
   "bugs": {
-    "url": "https://github.com/jupyter/jupyter-widget-hello/issues"
+    "url": "https://github.com/vidartf/jupyter-widget-hello/issues"
   },
   "license": "BSD-3-Clause",
   "author": "",
@@ -18,7 +18,7 @@
   "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jupyter/jupyter-widget-hello"
+    "url": "https://github.com/vidartf/jupyter-widget-hello"
   },
   "scripts": {
     "build": "npm run build:lib && npm run build:nbextension",
