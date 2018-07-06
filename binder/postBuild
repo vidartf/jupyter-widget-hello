@@ -3,5 +3,5 @@ pip install -e .
 jupyter labextension install @jupyter-widgets/jupyterlab-manager@0.35.0
 jupyter labextension link .
 
-jupyter nbextension install --py --symlink --sys-prefix jupyter-widget-hello
-jupyter nbextension enable --py --sys-prefix jupyter-widget-hello
+jupyter nbextension install --py --symlink --sys-prefix ipywidgethello 
+jupyter nbextension enable --py --sys-prefix  ipywidgethello
